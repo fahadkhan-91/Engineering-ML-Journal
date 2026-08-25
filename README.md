@@ -1,5 +1,8 @@
 # Engineering-ML-Journal
-Daily mini projects combining civil engineering, materials, and ML
+
+Daily mini projects combining civil engineering, materials, and ML. 
+This repo documents my daily practice — one small project at a time.
+
 ## Projects
 
 | Day | Project | Status |
@@ -10,3 +13,14 @@ Daily mini projects combining civil engineering, materials, and ML
 | Day 4 | [Rebar Weight & Cost Calculator](week-01/day-04-rebar-calculator) | ✅ Completed |
 | Day 5 | [Concrete Strength v2 - Model Comparison](week-01/day-05-concrete-strength-advanced) | ✅ Completed |
 | Day 6 | [Abrams' Law Notes + Demo](week-01/day-06-abrams-law-notes) | ✅ Completed |
+
+## Week 1 Summary
+- Explored ML basics (regression, model comparison) using concrete strength data
+- Built 2 engineering calculators (beam deflection, rebar estimation)
+- Practiced data visualization (stress-strain curves)
+- Connected ML results back to real engineering theory (Abrams' Law)
+
+## Coming Up (Week 2)
+- Soil classification using ML
+- Structural truss analysis solver
+- Concrete mix design calculator (ACI method)
