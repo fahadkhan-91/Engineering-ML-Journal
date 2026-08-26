@@ -20,7 +20,8 @@ This repo documents my daily practice — one small project at a time.
 - Practiced data visualization (stress-strain curves)
 - Connected ML results back to real engineering theory (Abrams' Law)
 
-## Coming Up (Week 2)
-- Soil classification using ML
-- Structural truss analysis solver
-- Concrete mix design calculator (ACI method)
+## Week 2
+
+| Day | Project | Status |
+|-----|---------|--------|
+| Day 8 | [Soil Classification using ML](week-02/day-08-soil-classification) | ✅ Completed |
