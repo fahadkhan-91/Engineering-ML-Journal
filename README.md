@@ -25,3 +25,4 @@ This repo documents my daily practice — one small project at a time.
 | Day | Project | Status |
 |-----|---------|--------|
 | Day 8 | [Soil Classification using ML](week-02/day-08-soil-classification) | ✅ Completed |
+| Day 9 | [ACI Mix Design Calculator](week-02/day-09-mix-design-calculator) | ✅ Completed |
