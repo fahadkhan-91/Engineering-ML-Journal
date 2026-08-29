@@ -27,3 +27,4 @@ This repo documents my daily practice — one small project at a time.
 | Day 8 | [Soil Classification using ML](week-02/day-08-soil-classification) | ✅ Completed |
 | Day 9 | [ACI Mix Design Calculator](week-02/day-09-mix-design-calculator) | ✅ Completed |
 | Day 10 | [Material Properties Comparison](week-02/day-10-material-comparison) | ✅ Completed |
+| Day 11 | [Concrete Quantity Estimator](week-02/day-11-concrete-quantity-estimator) | ✅ Completed |
