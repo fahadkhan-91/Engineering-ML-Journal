@@ -15,6 +15,12 @@ This repo documents my daily practice — one small project at a time.
 | Day 5 | [Concrete Strength v2 - Model Comparison](week-01/day-05-concrete-strength-advanced) | ✅ Completed |
 | Day 6 | [Abrams' Law Notes + Demo](week-01/day-06-abrams-law-notes) | ✅ Completed |
 
+## Week 1 Summary
+- Explored ML basics (regression, model comparison) using concrete strength data
+- Built 2 engineering calculators (beam deflection, rebar estimation)
+- Practiced data visualization (stress-strain curves)
+- Connected ML results back to real engineering theory (Abrams' Law)
+
 ### Week 2
 | Day | Project | Status |
 |-----|---------|--------|
@@ -25,14 +31,13 @@ This repo documents my daily practice — one small project at a time.
 | Day 12 | [Soil Classification v2 - CV + Model Comparison](week-02/day-12-soil-classification-advanced) | ✅ Completed |
 | Day 13 | [Cross-Validation Notes](week-02/day-13-cross-validation-notes) | ✅ Completed |
 
-## Week 1 Summary
-- Explored ML basics (regression, model comparison) using concrete strength data
-- Built 2 engineering calculators (beam deflection, rebar estimation)
-- Practiced data visualization (stress-strain curves)
-- Connected ML results back to real engineering theory (Abrams' Law)
-
 ## Week 2 Summary
 - Extended ML skills: model comparison, cross-validation, confusion matrices
 - Built 2 more engineering automation tools (mix design, quantity estimator)
 - Practiced multi-panel data visualization (material comparison dashboard)
 - Documented core ML concept (cross-validation) with engineering context
+
+### Week 3
+| Day | Project | Status |
+|-----|---------|--------|
+| Day 15 | [Concrete Curing Strength Prediction](week-03/day-15-curing-strength-prediction) | ✅ Completed |
