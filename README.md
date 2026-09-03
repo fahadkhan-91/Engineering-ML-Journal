@@ -41,3 +41,4 @@ This repo documents my daily practice — one small project at a time.
 | Day | Project | Status |
 |-----|---------|--------|
 | Day 15 | [Concrete Curing Strength Prediction](week-03/day-15-curing-strength-prediction) | ✅ Completed |
+| Day 16 | [Truss Analysis Solver](week-03/day-16-truss-analysis) | ✅ Completed |
