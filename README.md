@@ -44,3 +44,4 @@ This repo documents my daily practice — one small project at a time.
 | Day 16 | [Truss Analysis Solver](week-03/day-16-truss-analysis) | ✅ Completed |
 | Day 17 | [Truss Force Diagram Visualization](week-03/day-17-truss-visualization) | ✅ Completed |
 | Day 18 | [Concrete Carbon Footprint Calculator](week-03/day-18-carbon-footprint-calculator) | ✅ Completed |
+| Day 19 | [Concrete Strength v3 - Feature Engineering + Tuning](week-03/day-19-concrete-strength-v3) | ✅ Completed |
