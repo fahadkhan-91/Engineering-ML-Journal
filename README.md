@@ -45,3 +45,4 @@ This repo documents my daily practice — one small project at a time.
 | Day 17 | [Truss Force Diagram Visualization](week-03/day-17-truss-visualization) | ✅ Completed |
 | Day 18 | [Concrete Carbon Footprint Calculator](week-03/day-18-carbon-footprint-calculator) | ✅ Completed |
 | Day 19 | [Concrete Strength v3 - Feature Engineering + Tuning](week-03/day-19-concrete-strength-v3) | ✅ Completed |
+| Day 20 | [Bias-Variance Tradeoff Notes](week-03/day-20-bias-variance-notes) | ✅ Completed |
