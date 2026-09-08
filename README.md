@@ -53,3 +53,8 @@ This repo documents my daily practice — one small project at a time.
 - Built a sustainability-focused automation tool (carbon footprint calculator)
 - Applied feature engineering + hyperparameter tuning (GridSearchCV) to improve ML models
 - Documented bias-variance tradeoff, connecting 3 earlier projects together
+
+## Coming Up (Week 4)
+- Interactive dashboard combining previous mini-tools (Streamlit)
+- Corrosion/durability prediction model
+- Time-series analysis on a real public dataset
