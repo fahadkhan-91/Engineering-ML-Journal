@@ -46,3 +46,10 @@ This repo documents my daily practice — one small project at a time.
 | Day 18 | [Concrete Carbon Footprint Calculator](week-03/day-18-carbon-footprint-calculator) | ✅ Completed |
 | Day 19 | [Concrete Strength v3 - Feature Engineering + Tuning](week-03/day-19-concrete-strength-v3) | ✅ Completed |
 | Day 20 | [Bias-Variance Tradeoff Notes](week-03/day-20-bias-variance-notes) | ✅ Completed |
+
+## Week 3 Summary
+- Modeled time-based engineering behavior (concrete curing strength gain)
+- Solved a statically determinate truss using matrix-based method of joints
+- Built a sustainability-focused automation tool (carbon footprint calculator)
+- Applied feature engineering + hyperparameter tuning (GridSearchCV) to improve ML models
+- Documented bias-variance tradeoff, connecting 3 earlier projects together
