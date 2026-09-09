@@ -54,7 +54,7 @@ This repo documents my daily practice — one small project at a time.
 - Applied feature engineering + hyperparameter tuning (GridSearchCV) to improve ML models
 - Documented bias-variance tradeoff, connecting 3 earlier projects together
 
-## Coming Up (Week 4)
-- Interactive dashboard combining previous mini-tools (Streamlit)
-- Corrosion/durability prediction model
-- Time-series analysis on a real public dataset
+### Week 4
+| Day | Project | Status |
+|-----|---------|--------|
+| Day 22 | [Corrosion Rate Prediction](week-04/day-22-corrosion-prediction) | ✅ Completed |
