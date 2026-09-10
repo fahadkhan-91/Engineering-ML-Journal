@@ -58,3 +58,4 @@ This repo documents my daily practice — one small project at a time.
 | Day | Project | Status |
 |-----|---------|--------|
 | Day 22 | [Corrosion Rate Prediction](week-04/day-22-corrosion-prediction) | ✅ Completed |
+| Day 23 | [RC Column Axial Capacity Calculator](week-04/day-23-column-capacity-calculator) | ✅ Completed |
