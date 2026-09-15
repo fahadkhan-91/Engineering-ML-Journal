@@ -63,3 +63,14 @@ This repo documents my daily practice — one small project at a time.
 | Day 25 | [Batch Column Design Checker](week-04/day-25-batch-column-checker) | ✅ Completed |
 | Day 26 | [Corrosion Prediction v2 - CV + Tuning + Service Life](week-04/day-26-corrosion-prediction-v2) | ✅ Completed |
 | Day 27 | [Linear Regression vs Random Forest Notes](week-04/day-27-model-selection-notes) | ✅ Completed |
+
+## Week 4 Summary
+- Modeled reinforcement corrosion and extended it into service life estimation
+- Built an ACI-based RC column capacity calculator and visualized design trends
+- Automated batch design checking for multiple columns with pass/fail reporting
+- Documented model selection judgment (Linear Regression vs Random Forest) based on my own project results
+
+### Week 5
+| Day | Project | Status |
+|-----|---------|--------|
+| Day 29 | [Rainfall-Runoff Prediction (Hydrology)](week-05/day-29-rainfall-runoff) | ✅ Completed |
