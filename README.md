@@ -74,3 +74,4 @@ This repo documents my daily practice — one small project at a time.
 | Day | Project | Status |
 |-----|---------|--------|
 | Day 29 | [Rainfall-Runoff Prediction (Hydrology)](week-05/day-29-rainfall-runoff) | ✅ Completed |
+| Day 30 | [Open Channel Flow Calculator](week-05/day-30-open-channel-flow) | ✅ Completed |
