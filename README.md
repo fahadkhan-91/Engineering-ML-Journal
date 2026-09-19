@@ -76,3 +76,4 @@ This repo documents my daily practice — one small project at a time.
 | Day 29 | [Rainfall-Runoff Prediction (Hydrology)](week-05/day-29-rainfall-runoff) | ✅ Completed |
 | Day 30 | [Open Channel Flow Calculator](week-05/day-30-open-channel-flow) | ✅ Completed |
 | Day 31 | [Stage-Discharge Rating Curve](week-05/day-31-stage-discharge-curve) | ✅ Completed |
+| Day 32 | [Culvert/Pipe Sizing Selector](week-05/day-32-culvert-sizing-selector) | ✅ Completed |
