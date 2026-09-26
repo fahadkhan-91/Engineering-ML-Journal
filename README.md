@@ -79,3 +79,16 @@ This repo documents my daily practice — one small project at a time.
 | Day 32 | [Culvert/Pipe Sizing Selector](week-05/day-32-culvert-sizing-selector) | ✅ Completed |
 | Day 33 | [Rainfall-Runoff v2 - CV + Tuning + Return Periods](week-05/day-33-rainfall-runoff-v2) | ✅ Completed |
 | Day 34 | [Return Period & Design Storm Notes](week-05/day-34-return-period-notes) | ✅ Completed |
+
+## Week 5 Summary 
+- Explored a new domain: hydrology/water resources (rainfall-runoff, open channel flow)
+- Applied the SCS Curve Number method and Manning's Equation
+- two widely used hydraulic engineering tools
+- Automated culvert/pipe sizing selection across standard commercial sizes
+- Extended rainfall-runoff model with cross-validation, tuning, and return period analysis
+- Documented the statistics behind return periods and design storm probability.
+
+### Week 6
+| Day | Project | Status |
+|-----|---------|--------|
+| Day 36 | [Validating Models on Real UCI Data](week-06/day-36-real-dataset-validation) | ✅ Completed |
