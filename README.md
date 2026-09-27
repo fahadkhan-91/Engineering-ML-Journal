@@ -92,3 +92,4 @@ This repo documents my daily practice — one small project at a time.
 | Day | Project | Status |
 |-----|---------|--------|
 | Day 36 | [Validating Models on Real UCI Data](week-06/day-36-real-dataset-validation) | ✅ Completed |
+| Day 37 | [Historical Mix Recommender](week-06/day-37-mix-recommender) | ✅ Completed |
