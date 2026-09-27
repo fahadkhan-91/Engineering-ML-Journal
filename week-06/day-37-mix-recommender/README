@@ -1,0 +1,26 @@
+# Day 37 (Week 6, Day 2): Historical Mix Recommender (from Real Data)
+
+Goal: Given a target compressive strength, search the real UCI dataset 
+(1030 lab-tested mixes) for the closest historical matches — a 
+practical "reference design" approach used before running new lab 
+trials, powered by Day 36's real dataset.
+
+## What I did
+- Built a function that filters the real dataset by curing age, then 
+  finds the closest matches to a target strength
+- Tested with a 40 MPa / 28-day target, returning 5 close historical 
+  mixes with actual proportions
+- Built a quick-reference table across common strength classes 
+  (20-60 MPa)
+
+## Files
+- `mix_recommender.py` — main script (reuses Day 36's dataset)
+
+## Result
+For a 40 MPa target, the closest real historical mixes achieved 
+39.84-40.15 MPa — all within 0.2 MPa of target. Across strength 
+classes from 20 to 60 MPa, the closest historical match was always 
+within 0.2 MPa of the target, showing the real dataset has good 
+coverage across the practical design range.
+
+Status: ✅ Completed
