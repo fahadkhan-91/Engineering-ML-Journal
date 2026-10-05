@@ -94,3 +94,4 @@ This repo documents my daily practice — one small project at a time.
 | Day 36 | [Validating Models on Real UCI Data](week-06/day-36-real-dataset-validation) | ✅ Completed |
 | Day 37 | [Historical Mix Recommender](week-06/day-37-mix-recommender) | ✅ Completed |
 | Day 38 | [Real Data Exploration (EDA)](week-06/day-38-real-data-exploration) | ✅ Completed |
+| Day 39 | [Real Data Exploration (EDA)](week-06/day-38-real-data-exploration) | ✅ Completed |
