@@ -95,3 +95,4 @@ This repo documents my daily practice — one small project at a time.
 | Day 37 | [Historical Mix Recommender](week-06/day-37-mix-recommender) | ✅ Completed |
 | Day 38 | [Real Data Exploration (EDA)](week-06/day-38-real-data-exploration) | ✅ Completed |
 | Day 39 | [Automated Mix Design Report Generator](week-06/day-39-mix-report-generator) | ✅ Completed |
+| 40 | [Final Model: Feature Eng + CV + Tuning (Real Data)](week-06/day-40-final-model-tuned/) | ML Deep Dive | ✅ |
